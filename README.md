@@ -1,6 +1,5 @@
 ### Hi there 👋 it's Prince
 
-
 - 🔭 I’m currently in the world of technology
 - 🌱 I’m currently learning about programming 
 - 👯 I’m looking to collaborate on ...
